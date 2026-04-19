@@ -1,8 +1,10 @@
 # csce412-project4-site
 
-Personal multi-page static website for CSCE 412 Project 4 + 5.
+Personal multi-page static website hosted serverlessly on AWS with a fully automated CI/CD deployment pipeline.
 
-## Current Site Structure
+**Live Site:** [csce412mhnguyen.me](https://csce412mhnguyen.me)
+
+## Site Structure
 
 - index.html
 - about.html
